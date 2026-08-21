@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Nihal H G
 
-<!--
-**NihalHG/NihalHG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science Engineering student driven by a deep curiosity to understand the fundamental mechanics behind technology. I am highly passionate about the intersection of computer science and the logic of physics, focusing on translating complex real-world principles into efficient, structured software.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+* 🌱 Currently diving deep into **C Programming** to master structural logic and foundational computer science concepts.
+* 🐍 Experienced in **Python** for rapid logic-building and computational problem-solving.
+* 🔭 Actively exploring how physics and mathematical logic can be simulated and solved through software engineering.
+* 🤝 Open to collaborating on algorithmic challenges and open-source computational projects.
+* 📫 Let's connect:https://www.linkedin.com/in/nihal-h-g-1a4950420?utm_source=share_via&utm_content=profile&utm_medium=member_android 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages & Tools
+* **Programming Languages:** Python, C
+* **Developer Tools:** Git, GitHub, VS Code
+
+## 📈 Current Focus
+Building rigorous, logic-based simulations to continuously strengthen my algorithmic problem-solving architecture.
