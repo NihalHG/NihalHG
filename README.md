@@ -10,8 +10,15 @@ I am a Computer Science Engineering student driven by a deep curiosity to unders
 * 📫 Let's connect:https://www.linkedin.com/in/nihal-h-g-1a4950420?utm_source=share_via&utm_content=profile&utm_medium=member_android 
 
 ## 🛠️ Languages & Tools
-* **Programming Languages:** Python, C
-* **Developer Tools:** Git, GitHub, VS Code
+
+**Programming Languages**<br>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Developer Tools**<br>
+![VS Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📈 Current Focus
 Building rigorous, logic-based simulations to continuously strengthen my algorithmic problem-solving architecture.
