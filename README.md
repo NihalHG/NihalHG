@@ -7,7 +7,7 @@ I am a Computer Science Engineering student driven by a deep curiosity to unders
 * 🐍 Experienced in **Python** for rapid logic-building and computational problem-solving.
 * 🔭 Actively exploring how physics and mathematical logic can be simulated and solved through software engineering.
 * 🤝 Open to collaborating on algorithmic challenges and open-source computational projects.
-* 📫 Let's connect:https://www.linkedin.com/in/nihal-h-g-1a4950420?utm_source=share_via&utm_content=profile&utm_medium=member_android 
+* 📫 Let's connect: [Nihal H G](https://www.linkedin.com/in/nihal-h-g-1a4950420?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ## 🛠️ Languages & Tools
 
